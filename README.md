@@ -22,7 +22,7 @@ Projemi sonlandırdıktan sonra oyunu ilk önce kendim deneyimledim ve test aşa
 
 Test ekibi olarak aile üyelerimin hepsine gerçekleştirmiş olduğum oyunu denettim. Oyunumu oynarlarken başlarında durarak, benim oynarken gözden kaçırdığım bir hata varmı diye gözlemeledim ve bir hata ile karşılaşmadım. Aynı şekilde İş yeri eğitimi gerçekleştirdiğim yerde bulunan mühendislerede oyunumu denettim ve gözlemlerime göre herhangibir problem ile karşılaşmadım. 
 
-## Ekranlar
+## EKRANLAR
 
 **GİRİŞ EKRANI**
 
