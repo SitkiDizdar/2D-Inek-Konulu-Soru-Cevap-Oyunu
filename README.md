@@ -4,4 +4,4 @@
 
 ## Projenin Amacı
 
-Projenin
+dsfsfsdgsdss
