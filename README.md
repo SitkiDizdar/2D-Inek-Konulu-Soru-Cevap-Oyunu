@@ -28,7 +28,7 @@ Kod kısımlarına yukarıdaki belirtmiş olduğum kısımlardan ulaşabilirsini
 
 
 
-
+<br/>
 **SORU CEVAP EKRANI**
 
 <img width="525" alt="Ekran Resmi 2023-05-18 20 42 27" src="https://github.com/SitkiDizdar/2D-Inek-Konulu-Soru-Cevap-Oyunu/assets/65574088/cbd7d9bb-0b95-4bcd-8820-2bcf62d4202f">
