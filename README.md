@@ -16,7 +16,7 @@ Kod kısımlarına yukarıdaki belirtmiş olduğum kısımlardan ulaşabilirsini
 
 ## TEST AŞAMASI
 
-Projemi sonlandırdıktan sonra oyunu ilk önce kendim deneyimledim ve test aşaması olarak bu aşamada ilk önce butonların çalışırlık durumunu denedim, daha sonrasında butonlara tıklandığında istediğim işlevi yerine getiriyormu ona baktım. Bu aşamadan sonra arka plan sonsuz döngüde devam edebiliyormu diye test ettim her durumda ve Son test aşaması olarakda müziğin sorunsuzca sahneler arası geçişte kesilmeden veya tekrar baştan başlamadan devam ediyormu onu inceledim ve sonraki kısım olarak aşağıda açıkladığım test ekibine denetme kısmına geçtim
+Projemi sonlandırdıktan sonra oyunu ilk önce kendim deneyimledim ve test aşaması olarak bu aşamada ilk önce butonların çalışırlık durumunu denedim, daha sonrasında butonlara tıklandığında istediğim işlevi yerine getiriyormu ona baktım. Bu aşamadan sonra arka plan sonsuz döngüde devam edebiliyormu diye test ettim her durumda ve Son test aşaması olarakda müziğin sorunsuzca sahneler arası geçişte kesilmeden veya tekrar baştan başlamadan devam ediyormu onu inceledim ve test aşamasının sonraki kısım olarak aşağıda açıkladığım test ekibine denetme kısmına geçtim
 
 ## TEST EKİBİ
 
