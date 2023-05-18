@@ -12,3 +12,5 @@ Projemin kod kısmında kullandığım dil ise C#'dır.
 Projemde kod kısmı yalnızca Gerçekleştirmiş olduğum oyunun içindeki Butonlarda (Giriş ekranındaki başla butonu, Sorulara geçiş butonu, Yanlış Cevap verilince ortaya çıkan Tekrar Dene butonu ve Oyunun sonundaki Baştan Başla butonu) , Müziğin sahneler arası geçişte durmadan devam etmesinde ve arka plandaki görselin hiç durmadan sonsuz dögüde devam etmesinde kullandım.
 
 Kod kısımlarına yukarıdaki belirtmiş olduğum kısımlardan ulaşabilirsiniz
+
+### Ekranlar
