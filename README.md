@@ -13,6 +13,15 @@ Projemde kod kısmı yalnızca Gerçekleştirmiş olduğum oyunun içindeki Buto
 
 Kod kısımlarına yukarıdaki belirtmiş olduğum kısımlardan ulaşabilirsiniz
 
+
+## TEST AŞAMASI
+
+Projemi sonlandırdıktan sonra oyunu ilk önce kendim deneyimledim ve test aşaması olarak bu aşamada ilk önce butonların çalışırlık durumunu denedim, daha sonrasında butonlara tıklandığında istediğim işlevi yerine getiriyormu ona baktım. Bu aşamadan sonra arka plan sonsuz döngüde devam edebiliyormu diye test ettim her durumda ve Son test aşaması olarakda müziğin sorunsuzca sahneler arası geçişte kesilmeden veya tekrar baştan başlamadan devam ediyormu onu inceledim ve sonraki kısım olarak aşağıda açıkladığım test ekibine denetme kısmına geçtim
+
+## TEST EKİBİ
+
+Test ekibi olarak aile üyelerimin hepsine gerçekleştirmiş olduğum oyunu denettim. Oyunumu oynarlarken başlarında durarak, benim oynarken gözden kaçırdığım bir hata varmı diye gözlemeledim ve bir hata ile karşılaşmadım. Aynı şekilde İş yeri eğitimi gerçekleştirdiğim yerde bulunan mühendislerede oyunumu denettim ve gözlemlerime göre herhangibir problem ile karşılaşmadım. 
+
 ## Ekranlar
 
 **GİRİŞ EKRANI**
