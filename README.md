@@ -17,6 +17,6 @@ Kod kısımlarına yukarıdaki belirtmiş olduğum kısımlardan ulaşabilirsini
 
 Giriş Ekranı 
 
- ![Giriş Ekranı](<img width="525" alt="Ekran Resmi 2023-05-18 20 34 06" src="https://github.com/SitkiDizdar/2D-Inek-Konulu-Soru-Cevap-Oyunu/assets/65574088/6f91fd00-ba9a-4d55-af1b-2ab13512ea55">)
+ ![Giriş Ekranı]<img width="525" alt="Ekran Resmi 2023-05-18 20 34 06" src="https://github.com/SitkiDizdar/2D-Inek-Konulu-Soru-Cevap-Oyunu/assets/65574088/6f91fd00-ba9a-4d55-af1b-2ab13512ea55">
 
  
