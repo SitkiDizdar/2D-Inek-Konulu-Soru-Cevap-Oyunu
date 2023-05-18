@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Orta Arka Plan
+    uniqueID: 8181047
+    locked: 0
+  - name: yer kaplama
+    uniqueID: 18793669
+    locked: 0
+  - name: "\xC7al\u0131l\u0131k"
+    uniqueID: 2021932477
+    locked: 0
+  - name: "A\u011Fa\xE7 Toplulu\u011Fu"
+    uniqueID: 4168353107
+    locked: 0
+  - name: "G\xFCne\u015F"
+    uniqueID: 3973980821
+    locked: 0
+  - name: "\xC7iftlik evi"
+    uniqueID: 1020018517
+    locked: 0
+  - name: "\xC7im 1"
+    uniqueID: 3580716781
+    locked: 0
+  - name: "\u0130nek"
+    uniqueID: 1557021415
+    locked: 0
+  - name: "\xC7it"
+    uniqueID: 2692620805
+    locked: 0
+  - name: "\xC7it 2"
+    uniqueID: 3242732883
+    locked: 0
+  - name: "\xC7it 3"
+    uniqueID: 4253092037
+    locked: 0
+  - name: "\xC7al\u0131 Yaprak"
+    uniqueID: 353374179
+    locked: 0
+  - name: "A\u011Fa\xE7"
+    uniqueID: 783202603
+    locked: 0
+  - name: "\xC7ift\xE7i"
+    uniqueID: 2478393685
+    locked: 0
+  - name: Kaya
+    uniqueID: 2494549467
+    locked: 0
+  - name: "\xC7im 3"
+    uniqueID: 2459604305
+    locked: 0
+  - name: "\xC7im 2"
+    uniqueID: 596803733
+    locked: 0
+  - name: "Y\u0131ld\u0131z Yaprak"
+    uniqueID: 1366091837
+    locked: 0
+  - name: "K\xFC\xE7\xFCk Yaprak"
+    uniqueID: 620384519
+    locked: 0
+  - name: Tablo
+    uniqueID: 1084851523
+    locked: 0
+  - name: "G\xF6ky\xFCz\xFC"
+    uniqueID: 3194892575
+    locked: 0
+  - name: Kaplama
+    uniqueID: 1854084303
+    locked: 0
