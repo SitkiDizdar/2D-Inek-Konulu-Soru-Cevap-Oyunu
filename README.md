@@ -4,11 +4,12 @@
 
 
 ## PROJE AMACI
+
 Projemizin amacı yukarıdaki kartımızı Unity oyun motoru üzerinden bir 2D boyutlu oyuna çevirmek 
 
 Bunun için ilk olarak bu kartı nasıl oyuna çeviririz aşaması vardı. Biraz araştırmamın ardından en mantıklı yöntem olarak Şıklı Soru Cevap şeklinde yapmaya karar verdim.
 
-Projemin kod kısmında kullandığım dil ise C#'dır.
+Projemin kodlama kısmını C# kodlama dili ile gerçekleştirdim
 
 Projemde kod kısmı yalnızca Gerçekleştirmiş olduğum oyunun içindeki Butonlarda (Giriş ekranındaki başla butonu, Sorulara geçiş butonu, Yanlış Cevap verilince ortaya çıkan Tekrar Dene butonu ve Oyunun sonundaki Baştan Başla butonu) , Müziğin sahneler arası geçişte durmadan devam etmesinde ve arka plandaki görselin hiç durmadan sonsuz dögüde devam etmesinde kullandım.
 
