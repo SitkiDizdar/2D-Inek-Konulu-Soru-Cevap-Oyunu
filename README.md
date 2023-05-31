@@ -1,6 +1,7 @@
 # Unity-2D-Cocuklara-Yonelik-Inek-Konulu-Soru-Cevap-Oyunu
 
-  ![Oyun Kartı](https://github.com/SitkiDizdar/2D-Inek-Konulu-Soru-Cevap-Oyunu/files/11509711/Kartlar.suruklenen.pdf)
+<img width="405" alt="Ekran Resmi 2023-05-31 15 43 12" src="https://github.com/SitkiDizdar/2D-Inek-Konulu-Soru-Cevap-Oyunu/assets/65574088/1de5a773-5774-423d-a1d7-89990f048241">
+
 
 ## PROJE AMACI
 Projemizin amacı yukarıdaki kartımızı Unity oyun motoru üzerinden bir 2D boyutlu oyuna çevirmek 
