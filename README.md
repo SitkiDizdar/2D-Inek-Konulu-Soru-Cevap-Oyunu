@@ -5,7 +5,7 @@
 ## Proje Amacı
 Projemizin amacı yukarıdaki kartımızı Unity oyun motoru üzerinden bir 2D boyutlu oyuna çevirmek 
 
-Bunun için ilk olarak bu kartı nasıl oyuna çeviririz aiaması vardı. Biraz araştırmamın ardından en mantıklı yöntem olarak Şıklı Soru Cevap şeklinde yapmaya karar verdim.
+Bunun için ilk olarak bu kartı nasıl oyuna çeviririz aşaması vardı. Biraz araştırmamın ardından en mantıklı yöntem olarak Şıklı Soru Cevap şeklinde yapmaya karar verdim.
 
 Projemin kod kısmında kullandığım dil ise C#'dır.
 
