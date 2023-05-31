@@ -2,7 +2,7 @@
 
   ![Oyun Kartı](https://github.com/SitkiDizdar/2D-Inek-Konulu-Soru-Cevap-Oyunu/files/11509711/Kartlar.suruklenen.pdf)
 
-## Proje Amacı
+## PROJE AMACI
 Projemizin amacı yukarıdaki kartımızı Unity oyun motoru üzerinden bir 2D boyutlu oyuna çevirmek 
 
 Bunun için ilk olarak bu kartı nasıl oyuna çeviririz aşaması vardı. Biraz araştırmamın ardından en mantıklı yöntem olarak Şıklı Soru Cevap şeklinde yapmaya karar verdim.
